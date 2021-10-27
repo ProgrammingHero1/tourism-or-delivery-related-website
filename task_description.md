@@ -5,13 +5,13 @@ We have a sample task for you.
 
 
 ### Website Purpose:
-1. Website has to be a travel, tourism, vacation or delivery service related website. Some examples are: tour planner, tour booking website, vacation planner, traveling agent, tourism related bus/car/plane/cruise/kayak/etc., ticket booking, camping planner, theme park (fantasy kingdom, nandon, etc), any vacation related activity provider. Another option could be delivery services. Like Food delivery, food catering, parcel delivery, courier service, same day delivery service. However, it can not be a restaurant or an e-commerce site. 
+1. Your website has to be related to travel, tourism, vacation or delivery service. Some examples are: tour planner, tour booking website, vacation planner, traveling agent, ticket booking for tourism related bus/car/plane/cruise/kayak/etc., camping planner, theme park (fantasy kingdom, nandon, etc), or any vacation related service provider. Another option could be delivery services. Like Food delivery, food catering, parcel delivery, courier service, same day delivery service. However, it can not be a restaurant or an e-commerce site. 
 
 2. Make sure your design and website idea is unique. First, finalize your idea (what type of website you want to build). Then google the site design or visit themeforest. to get your website idea. However, your website can not be related to your previous assignments or any demo project displayed in the course or in our conceptual sessions.
-3. Do not spend too much on thinking. Start on an idea. sometimes, put a placeholder image and keep developing the functionalities. 
+3. Initially, do not spend too much on thinking the design. Just spend 30minutes to an hour. And then finalize the idea. Start working on the project. If needed put a placeholder image and keep developing the functionalities. Once the functionality is done, come back to add proper images. 
 
 ## Task Detail: 
-1. Home page will have a header (simple navbar), banner, offerings (Items/services/items/options/travel plan:  the main items that user will purchase), and footer.
+1. Home page will have a header (simple navbar), banner, offerings (services/items/options/plans:  the main items that user will purchase), and footer.
 2. Add two extra sections in the home page in addition to the 4 sections mentioned above. 
 
 3. The Offerings will have at least 6 items/services. You can put one or more items/services in a row based on your design. Each service should have a relevant name, image, short description and a purchase button (button could say: book now, buy now, order, etc.). 
@@ -36,9 +36,10 @@ We have a sample task for you.
 6. Clean and organized Code. Organize components and add comments when needed
 7. Add a loading spinner on the home page, if data is loading a spinner will be displayed.
 8. use .env file to hide db user and password and also use .gitignore file
+9. At the time of placing an order, the order will have a pending status. On the admin: Manage orders page, an admin will be able to update the status of the order as approved. This could be a simple button to update the pending status.
 
 ### Optional:
-1. At the time of placing an order, the order will have a pending status. On the admin: Manage orders page, an admin will be able to update the status of the order as approved.
+1. Implement a complete update experience for the admin. It could be a modal or a new route to update every field of the order including the status. You can have multiple staus there. For example, pending, approved, rejected, etc.
 2. Try to use a better looking confirmation dialogue other than the browser's default confirm.
 3. On the `add a service` page, try to implement direct image upload from your computer. This image can be hosted on third part image hosting like imgbb or directly to mongodb
 4. Add some mouseover animation while taking the mouse on the services/items card
@@ -47,7 +48,6 @@ We have a sample task for you.
 7. Optimize your images
 8. Add something extra of your own. This will help you in the future.
 9. Most of the booking will have a date, you can use browsers default input type date or any external packages
-
 
 
 ### Additional information:
