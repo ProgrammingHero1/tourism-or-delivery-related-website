@@ -1,32 +1,35 @@
 
 
 ## Task Description: 
-Our company focused on food, hotel and tourism related services. Currently, we are looking for a front-end web developer to build our brand new website using `React`, `firebase`, `react router`, `node`, `express`, `mongodb` etc. 
+Our company focused on tourism and hospitality related services. Currently, we are looking for a front-end web developer to build our brand new website using `React`, `firebase`, `react router`, `node`, `express`, `mongodb` etc. 
 
 We have a sample task for you.
 
 
-### Task Detail: 
-1. Website has to be a food or hotels or tourism related website. It could be related to a restaurant (any type of generail or special restaurant like burger, pizza, desi food, italian, ), food delivery, hotels, tourism agency, etc. 
-
+### Website Purpose:
+1. Website has to be a travel, tourism or hotels or food service related website. It could be related to tour booking website, vacation planner, traveling agent, tourism related bus/car/plane/cruise ticket booking, tour planner, camping planner, hotel booking, theme park (fantasy kingdom, nandon, etc), a restaurant (any type of generail or special restaurant like burger, pizza, desi food, italian, etc.), food delivery, etc. 
 
 2. Make sure your design and website idea is unique. First, finalize your idea (what type of website you want to build). Then google the site design or visit themeforest. to get your website idea. However, your website can not be related to your previous assignments or any demo project displayed in the course or in our conceptual sessions.
-3. Home page will have a header (simple navbar), banner, services, and footer 
-4. Add two extra sections in the home page in addition to the 4 sections mentioned above.
+
+## Task Detail: 
+1. Home page will have a header (simple navbar), banner, offerings (Items/services/food items/menu/travel plan:  the main items that user will purchase), and footer.
+2. Add two extra sections in the home page in addition to the 4 sections mentioned above.
+
+3. The Offerings will have at least 6 items/services. You can put one or more items/services in a row based on your design. Each service should have a relevant name, image, short description and a purchase button (button could say: book now, buy now, order, etc.). 
+4. Clicking on the button will take the user to the order place page. This route will be private/protected route. Please make sure that if the user is not logged in, the private route redirects to the login page. After login user will be redirected to the page he/she wanted to go.
+5. Order place page should display detailed information of the item user has clicked. It will dsiplay users name and email address from the login system and user will provide address and necessary information to place the order/booking/purchase. 
 
 
 
+6. After placing an order, user will go to the orders page. There he/she will see all the previous orders he palced for this user. If the user wants, he/she should be able to cancel/delete the order. 
+7. There will be an "Admin" route, if you go to the admin page. It will display all the orders placed by every users. and admin will be able to delete/cancel any order
+8. No Fake data (data has to be hosted on the database)
+ 
 
-5. The Services section will have at least 6 services. You can put one or more services in a row based on your design. Each service should have a relevant name, image, short description and a specific button. 
-6. Clicking on the button will take the user to the service detail route. Each route should display detailed information of the service along with the image of the service. 
-7. This route will be private/protected routes. Please make sure that if the user is not logged in, the private route redirects to the login page. 
-
-8. You Must implement Email and password based Authentication. This means, you will have to implement the Registration and the login page. Users should be able to toggle between Login and Registration view .
-9. Also, implement at least one extra login which could be (facebook, github, google, etc).
-10. Once logged in, the user name, logout button should appear on the header which will log out the user once clicked. Displaying user profile pic on the header is optional.
-11. Add two more routes. Relevant to your website. These two routes will be private. You can put anything relevant to your site on these two routes. 
-12. Will need a 404 page (not found page)
-
+8. Implement at least one auth provider (google, facebook, github or others). Using email and password based authentication is optional.
+9. Once logged in, the user name, logout button should appear on the header which will log out the user once clicked. Displaying user profile pic on the header is optional.
+10. Add two more routes. Relevant to your website. These two routes will be private/protected. You can put anything relevant to your site on these two routes. 
+11. Will need a 404 page (not found page)
 
 
 ### Bonus: 
@@ -62,8 +65,9 @@ We have a sample task for you.
 8. Try to host your site on Firebase (netlifiy host will need extra configuration)
 
 ### What to submit 
-1. Your github repository
-2. Your live website link
+1. Your client side code github repository
+2. Your server side code github repository
+3. Your live website link
 
 
 
