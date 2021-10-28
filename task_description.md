@@ -5,7 +5,7 @@ We have a sample task for you.
 
 
 ### Website Purpose:
-1. Your website has to be related to tourism (travel, vacation, etc.) or delivery service. Some examples are: tour planner, tour booking website, vacation planner, travel agent, ticket booking for tourism related: bus/car/plane/cruise/kayak/etc., picnic spot booking, camp site, theme park (fantasy kingdom, nandon, etc), or any vacation related service. Another option could be delivery services like Food delivery, food catering, parcel delivery, courier service, same day delivery service, etc. However, your website can not be a restaurant or an e-commerce site. 
+1. Your website has to be related to tourism (tour, travel, vacation, etc.) or delivery service. Some examples are: tour planner, tour booking website, vacation planner, travel agent, ticket booking for tourism related: bus/car/plane/cruise/kayak/etc., picnic spot booking, camp site, theme park (fantasy kingdom, nandon, etc), or any vacation related service. Another option could be delivery services like Food delivery, food catering, parcel delivery, courier service, same day delivery service, etc. However, your website can not be a restaurant or an e-commerce site. 
 
 2. Make sure your design and website idea is unique. First, finalize your idea (what type of website you want to build). Then google the site design or visit themeforest. to get your website idea. However, your website can not be related to your previous assignments or any demo project displayed in the course or in our conceptual sessions.
 3. Initially, do not spend too much on thinking the design. Just spend 30minutes to an hour. And then finalize the idea. Start working on the project. If needed put a placeholder image and keep developing the functionalities. Once the functionality is done, come back to add proper images. 
@@ -43,12 +43,15 @@ We have a sample task for you.
 1. Implement a complete update experience for the admin. It could be a modal or a new route to update every field of the order including the status. You can have multiple staus there. For example, pending, approved, delivered, shipped, rejected, etc.
 2. Try to use a better looking confirmation dialogue other than the browser's default confirm.
 3. On the `add a service` page, try to implement direct image upload from your computer. This image can be hosted on third part image hosting like imgbb or directly to mongodb
-4. Add some mouseover animation while taking the mouse on the services/items card
-5. Please Use icons whenever applicable and use fonts
+4. Add some animation while applicable.
+5. Please Use icons whenever applicable and use fonts (google fonts)
 6. Make the footer little more realistic
 7. Optimize your images
 8. Add something extra of your own. This will help you in the future.
 9. Most of the booking will have a date, you can use browsers default input type date or any external packages
+10. We encourage you to use axios.
+11. Also, if you want you can use mongoose.
+12. If possilbe, replace the default react favicon and give an icon for your website. 
 
 
 ### Additional information:
