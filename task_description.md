@@ -60,7 +60,7 @@ We have a sample task for you.
 4. If needed you can mix CSS framework with a component library
 5. You may use `react hook form`, basic html form or any library for authentication
 6. Local storage is optional
-7. Environment variable is recommended but optional
+7. Client side Environment variable is recommended but optional.
 8. Try to host your site on Firebase (Netlify host will need extra configuration)
 9. Try to host server on heroku
 
