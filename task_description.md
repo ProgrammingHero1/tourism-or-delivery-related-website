@@ -37,7 +37,7 @@ We have a sample task for you.
 6. Clean and organized Code. Organize components and add comments when needed
 7. Add a loading spinner on the home page, if data is loading a spinner will be displayed.
 8. use .env file to hide db user and password and also use .gitignore file
-
+9. `update this` create stackoverflow profile and post a question and give us a link of the questions
 
 ### Optional:
 1. Implement a complete update experience for the admin. It could be a modal or a new route to update every field of the order including the status. You can have multiple staus there. For example, pending, approved, delivered, shipped, rejected, etc.
